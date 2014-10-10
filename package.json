@@ -1,6 +1,6 @@
 {
 	"name": "assmar",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Converts all occurences of the word 'asthma' to 'ass-mar'.",
 	"license": "MIT",
 	"repository": "https://www.github.com/JaredCubilla/node-assmar",
