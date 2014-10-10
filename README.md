@@ -4,16 +4,16 @@ A satirical node-package for when you're feeling a little Lord-of-the-Flies-y.
 
 ## Usage
 
-'''sh
+```sh
 $ npm install --save assmar
-'''
+```
 
-'''js
+```js
 var assmar = require('assmar');
 
 console.log(assmar('Sucks to your asthma!'));
 //=> 'Sucks to your ass-mar!'
-'''
+```
 
 ## License
 
