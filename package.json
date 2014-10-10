@@ -4,6 +4,7 @@
 	"description": "Converts all occurences of the word 'asthma' to 'ass-mar'.",
 	"license": "MIT",
 	"repository": "https://www.github.com/JaredCubilla/node-assmar",
+	"bugs": "https://github.com/JaredCubilla/node-assmar/issues",
 	"author": {
 		"name": "Jared Cubilla",
 		"email": "jar.cubilla@gmail.com"
