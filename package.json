@@ -1,0 +1,13 @@
+{
+	"name": "assmar",
+	"version": "1.0.0",
+	"description": "Converts all occurences of the word 'asthma' to 'ass-mar'.",
+	"license": "MIT",
+	"repository": "JaredCubilla/node-assmar",
+	"author": {
+		"name": "Jared Cubilla",
+		"email": "jar.cubilla@gmail.com"
+	},
+	"files": ["index.js"],
+	"keywords": ["lotf", "replace", "word", "asthma", "fun"]
+}
